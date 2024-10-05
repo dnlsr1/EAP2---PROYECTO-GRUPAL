@@ -4,7 +4,7 @@
 Dentro de este ReadMe se econtrará un diccionario de las variables utilizadas para entender el "Impacto del desarrollo socioeconómico en los niveles de corrupción a nivel mundial". En este sentido, se visualizará la descripción de cada variables, incluyendo su escala, valores mínimos y máximos observados en los años 2020 y 2021
 ## VARIABLES
 
-| Variable | Descripción | Escala | Valor Mínimo 2019 | Valor Máximo 2019 | Valor Mínimo 2020 | Valor Máximo 2020 |
+| Variable | Descripción | Escala | Valor Mínimo 2020 | Valor Máximo 2020 | Valor Mínimo 2021 | Valor Máximo 2021 |
 | --- | --- | --- | --- | --- | --- | --- |
 | PAIS | Nombre del país | Categoría | n/a | n/a | n/a | n/a |
 | CODE | Código de tres letras del país | Categoría | n/a | n/a | n/a | n/a |
