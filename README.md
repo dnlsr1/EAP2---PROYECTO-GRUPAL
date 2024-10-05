@@ -1,8 +1,8 @@
 
-# Diccionario de Variables
+# DICCIONARIO
 
 Dentro de este ReadMe se econtrará un diccionario de las variables utilizadas para entender el "Impacto del desarrollo socioeconómico en los niveles de corrupción a nivel mundial". En este sentido, se visualizará la descripción de cada variables, incluyendo su escala, valores mínimos y máximos observados en los años 2020 y 2021
-## Variables
+## VARIABLES
 
 | Variable | Descripción | Escala | Valor Mínimo 2019 | Valor Máximo 2019 | Valor Mínimo 2020 | Valor Máximo 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
