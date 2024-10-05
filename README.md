@@ -6,8 +6,8 @@ Dentro de este ReadMe se econtrará un diccionario de las variables utilizadas p
 
 | Variable | Descripción | Escala | Valor Mínimo 2019 | Valor Máximo 2019 | Valor Mínimo 2020 | Valor Máximo 2020 |
 | --- | --- | --- | --- | --- | --- | --- |
-| PAIS | Nombre del país | Categoría | nan | nan | nan | nan |
-| CODE | Código de tres letras del país | Categoría | nan | nan | nan | nan |
+| PAIS | Nombre del país | Categoría | n/a | n/a | n/a | n/a |
+| CODE | Código de tres letras del país | Categoría | n/a | n/a | n/a | n/a |
 | CPI | Índice de Percepción de Corrupción (CPI) | 0 - 100 | 12.0 | 90.0 | 12.0 | 88.0 |
 | PBI | Producto Bruto Interno (en miles de millones de USD) | Numérica continua | 221.1578034 | 133711.7944 | 216.827417481114 | 116905.370396853 |
 | GASTO_EDU | Porcentaje del PBI destinado a educación | Numérica continua | 5.0 | 33.4 | 5.0 | 34.2 |
