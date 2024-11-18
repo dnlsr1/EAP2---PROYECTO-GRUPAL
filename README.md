@@ -22,3 +22,7 @@ Dentro de este ReadMe se econtrará un diccionario de las variables utilizadas p
 # CONSIDERACIONES:
 
 Dentro de este GitHub se podrán encontrar dos tipos de archisvos. Por un lado, los zips que contienen los códigos y las bases de datos utizados de las variables (DATA 2020 - 21.zip). Por otro lado, se encontrarán las bases de datos finales de los años 2020 - 2021 en archivos de excel. Finalmente se ha agregado el diccionario de las varibales en formato excel.
+
+#HTML:
+
+Hemos intentado correr nuestro HTML dentro del GitHub, pero es muy pesado, por lo que no se puede cargar. 
