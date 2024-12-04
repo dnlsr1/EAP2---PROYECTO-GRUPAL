@@ -1,7 +1,7 @@
 
 # DICCIONARIO
 
-Dentro de este ReadMe se econtrará un diccionario de las variables utilizadas para entender el "Impacto del desarrollo socioeconómico en los niveles de corrupción a nivel mundial". En este sentido, se visualizará la descripción de cada variables, incluyendo su escala, valores mínimos y máximos observados en los años 2020 y 2021
+Dentro de este ReadMe se econtrará un diccionario de las variables utilizadas para entender el "Impacto del desarrollo socioeconómico en los niveles de corrupción a nivel mundial". En este sentido, se visualizará la descripción de cada variables, incluyendo su escala, valores mínimos y máximos observados en el año 2020
 
 ## VARIABLES
 
@@ -19,10 +19,3 @@ Dentro de este ReadMe se econtrará un diccionario de las variables utilizadas p
 | GINI | Coeficiente de GINI (desigualdad económica) | 0 - 100 | 24.1 | 55.1 | 24.0 | 53.5 |
 | POB_TOTAL | Población total del país | Numérica continua | 72412.0 | 1412360000.0 | 71995.0 | 1411100000.0 |
 
-# CONSIDERACIONES:
-
-Dentro de este GitHub se podrán encontrar dos tipos de archisvos. Por un lado, los zips que contienen los códigos y las bases de datos utizados de las variables (DATA 2020 - 21.zip). Por otro lado, se encontrarán las bases de datos finales de los años 2020 - 2021 en archivos de excel. Finalmente se ha agregado el diccionario de las varibales en formato excel.
-
-# HTML:
-
-Hemos intentado correr nuestro HTML dentro del GitHub, pero es muy pesado, por lo que no se puede cargar. 
